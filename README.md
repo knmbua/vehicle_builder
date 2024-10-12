@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 08 TypeScript and OOP: Vehicle Builder
 
 ## Your Task
@@ -130,3 +131,6 @@ You are required to submit the following for review:
 
 ---
 &copy; 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+=======
+# vehicle_builder
+>>>>>>> 06869a6d14a074278b256725134ebb2d82885e97
