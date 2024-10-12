@@ -23,5 +23,8 @@ To run tests, use the following command:
 
 npm test
 
+Video Walkthrough
+https://drive.google.com/file/d/1Ppraj9tTwJbT2vGO-anj-1h5flLkJAYI/view?pli=1
+
 ## Questions
 If you have any questions about the project, please email me at knhopkinson23@gmail.com
